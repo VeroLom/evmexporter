@@ -1,0 +1,7 @@
+Mainnet=https://ethereum-rpc.publicnode.com
+Sepolia=https://ethereum-sepolia-rpc.publicnode.com
+Arbitrum Sepolia=https://sepolia-rollup.arbitrum.io/rpc
+Base Sepolia=https://base-sepolia-rpc.publicnode.com
+Blast Sepolia=https://endpoints.omniatech.io/v1/blast/sepolia/public
+OP Sepolia=https://endpoints.omniatech.io/v1/op/sepolia/public
+BRN Testnet=https://brn.rpc.caldera.xyz/http
